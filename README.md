@@ -1,3 +1,2 @@
-# Non-linear-physics
+# Non-linear-physics Homework 3
 
-ULB Phys-F411
