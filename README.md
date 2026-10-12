@@ -1,2 +1,2 @@
-# Non-linear-physics Homework 3
+# PhysF411 Homework 3
 
